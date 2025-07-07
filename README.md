@@ -1,4 +1,8 @@
 # 💫 About Me:
+<div align="left">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=08FDD8&width=500&lines=Embedded+Software+Engineer;Flutter+%2B+Dart+Developer;FPGA+%7C+IoT+%7C+RTOS+Expert;Always+building+at+the+edge+of+hardware+%26+UI" alt="Typing SVG" />
+
 👨‍💻 I’m an Embedded Software Engineer with strong hands-on experience in **Embedded C/C++, RTOS (FreeRTOS), ARM Cortex-M**, and **FPGA/RTL Design**.
 - 📱 Currently developing cross-platform applications using **Flutter and Dart** for **Android, macOS, and Web**.
 - 🌐 Passionate about **low-level systems, real-time applications, and hardware-software integration**.
