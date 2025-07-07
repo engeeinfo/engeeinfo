@@ -1,6 +1,13 @@
 # 💫 About Me:
+👨‍💻 I’m an Embedded Software Engineer with strong hands-on experience in **Embedded C/C++, RTOS (FreeRTOS), ARM Cortex-M**, and **FPGA/RTL Design**.
+- 📱 Currently developing cross-platform applications using **Flutter and Dart** for **Android, macOS, and Web**.
+- 🌐 Passionate about **low-level systems, real-time applications, and hardware-software integration**.
+- 🔌 I enjoy working on **protocol stacks (SPI, I2C, UART, CAN, USB)** and implementing custom hardware interfaces.
+- 🤝 Always open to collaboration in **embedded systems, IoT, mobile apps, and FPGA-based innovations**.
+- 🌱 Continuously learning **advanced Flutter UI/UX techniques**, **cross-platform deployment**, and **embedded AI**.
+- 💬 Ask me about **bare-metal programming, FreeRTOS task design.
+- ⚡ Fun fact: I love combining hardware precision with beautiful user interfaces.
 <br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasadkambale) 
