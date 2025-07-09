@@ -2,8 +2,13 @@
 <div align="left">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=08FDD8&background=0d1117&center=true&vCenter=true&width=900&lines=🚀+Embedded+Software+Engineer;🎯+Flutter+%2B+Dart+Developer;🧠+FPGA+%7C+IoT+%7C+RTOS+Expert;💡+Always+building+at+the+edge+of+hardware+%26+UI" alt="Typing SVG - Full Width">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="80" alt="Coding Cat" style="border-radius: 50%; display: inline-block; vertical-align: middle; margin-right: 20px;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1200&color=08FDD8&background=0d1117&center=false&vCenter=true&width=900&lines=🚀+Embedded+Software+Engineer;🎯+Flutter+%2B+Dart+Developer;🧠+FPGA+%7C+IoT+%7C+RTOS+Expert;💡+Always+building+at+the+edge+of+hardware+%26+UI" alt="Typing Text" style="display: inline-block; vertical-align: middle;" />
 </p>
+
+
+
+
 
 👨‍💻 I’m an Embedded Software Engineer with strong hands-on experience in **Embedded C/C++, RTOS (FreeRTOS), ARM Cortex-M**, and **FPGA/RTL Design**.
 - 📱 Currently developing cross-platform applications using **Flutter and Dart** for **Android, macOS, and Web**.
