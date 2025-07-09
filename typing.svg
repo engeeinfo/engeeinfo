@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="150" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: 'Fira Code', monospace;
+      font-size: 16px;
+      fill: #08FDD8;
+    }
+    .cursor {
+      fill: #08FDD8;
+      animation: blink 1s infinite;
+    }
+    @keyframes blink {
+      0%, 50% { opacity: 1; }
+      50.1%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <!-- Line 1 -->
+  <text class="text" x="10" y="25">
+    <tspan>
+      <animate attributeName="textLength" from="0" to="250" dur="2s" fill="freeze" />
+      Embedded Software Engineer
+    </tspan>
+  </text>
+
+  <!-- Line 2 -->
+  <text class="text" x="10" y="50">
+    <tspan>
+      <animate attributeName="textLength" from="0" to="220" begin="2.2s" dur="2s" fill="freeze" />
+      Flutter + Dart Developer
+    </tspan>
+  </text>
+
+  <!-- Line 3 -->
+  <text class="text" x="10" y="75">
+    <tspan>
+      <animate attributeName="textLength" from="0" to="250" begin="4.4s" dur="2s" fill="freeze" />
+      FPGA | IoT | RTOS Expert
+    </tspan>
+  </text>
+
+  <!-- Line 4 -->
+  <text class="text" x="10" y="100">
+    <tspan>
+      <animate attributeName="textLength" from="0" to="430" begin="6.6s" dur="2s" fill="freeze" />
+      Always building at the edge of hardware & UI
+    </tspan>
+  </text>
+
+  <!-- Blinking cursor -->
+  <text class="text cursor" x="570" y="125">|</text>
+</svg>
