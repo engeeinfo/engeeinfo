@@ -9,16 +9,64 @@
 
 
 
+## 👨‍💻 Embedded Firmware Engineer
 
-👨‍💻 I’m an Embedded Software Engineer with strong hands-on experience in **Embedded C/C++, RTOS (FreeRTOS), ARM Cortex-M**, and **FPGA/RTL Design**.
-- 📱 Currently developing cross-platform applications using **Flutter and Dart** for **Android, macOS, and Web**.
-- 🌐 Passionate about **low-level systems, real-time applications, and hardware-software integration**.
-- 🔌 I enjoy working on **protocol stacks (SPI, I2C, UART, CAN, USB)** and implementing custom hardware interfaces.
-- 🤝 Always open to collaboration in **embedded systems, IoT, mobile apps, and FPGA-based innovations**.
-- 🌱 Continuously learning **advanced Flutter UI/UX techniques**, **cross-platform deployment**, and **embedded AI**.
-- 💬 Ask me about **bare-metal programming, FreeRTOS task design.
-- ⚡ Fun fact: I love combining hardware precision with beautiful user interfaces.
-<br>
+I am an Embedded Firmware Engineer with strong hands-on experience in **Embedded C/C++, RTOS (FreeRTOS), and ARM Cortex-M systems**.  
+I specialize in **low-level driver development, real-time systems, and hardware-software integration**.
+
+---
+
+## 🔧 Core Expertise
+
+- Embedded C / C++
+- RTOS (FreeRTOS)
+- ARM Cortex-M (nRF52)
+- Device Driver Development
+- Communication Protocols: SPI, I2C, UART, I2S, TDM, PDM
+- Debugging & Real-Time Systems
+
+---
+
+## 🚀 Key Work
+
+- Developed low-level drivers for **I2S, TDM, PDM, SPI, I2C, UART**
+- Worked on **nRF52 firmware development and debugging**
+- Built automation frameworks using **Eggplant** for **Bosch BMA5xy & BMI4xy sensor validation**
+- Reduced manual testing effort by **90%** through automation
+- Automated firmware flashing, validation, and reporting workflows
+- Debugged complex hardware-software integration issues
+
+---
+
+## 🧪 Additional Skills
+
+- Test Automation (Eggplant)
+- Sensor Validation (Accelerometer / IMU)
+- Firmware Bring-up & Debugging
+- Logic Analyzer & Debug Tools
+
+---
+
+## 📱 Secondary Skills
+
+- Flutter & Dart (Android, Web, macOS)
+- Cross-platform UI development
+
+---
+
+## 🌐 Interests
+
+- Embedded Systems & Firmware Development
+- IoT & Real-Time Applications
+- Hardware-Software Integration
+- Embedded AI
+
+---
+
+## 🤝 Let’s Connect
+
+- Open to Embedded / Firmware opportunities
+- Interested in collaboration on Embedded & IoT projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasadkambale) 
