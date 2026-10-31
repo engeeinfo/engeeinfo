@@ -1,4 +1,8 @@
 # 💫 About Me:
+
+> Profile documentation for @engeeinfo. Project repositories contain the
+> implementation code, tests, and build instructions.
+
 <div align="left">
 
 <p align="center">
